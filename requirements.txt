@@ -1,0 +1,5 @@
+Django==2.2.3
+django-twitter-bootstrap==3.3.0
+pkg-resources==0.0.0
+pytz==2019.2
+sqlparse==0.3.0
